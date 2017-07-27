@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\SortingMethod\SortingMethod\bin\Debug\SortingMethod.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\SortingMethod\SortingMethod\bin\Debug\SortingMethod.exe
+c:\users\lovita\documents\visual studio 2015\Projects\SortingMethod\SortingMethod\bin\Debug\SortingMethod.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\SortingMethod\SortingMethod\obj\Debug\SortingMethod.csprojResolveAssemblyReference.cache
+c:\users\lovita\documents\visual studio 2015\Projects\SortingMethod\SortingMethod\obj\Debug\SortingMethod.exe
+c:\users\lovita\documents\visual studio 2015\Projects\SortingMethod\SortingMethod\obj\Debug\SortingMethod.pdb
